@@ -1,5 +1,5 @@
-# 🎮 VR Arcade Games 🎮
-Welcome to VR Arcade Games, a collection of classic arcade games brought to life in virtual reality! Dive into the nostalgic fun of Whack-A-Mole, Pinball, and Skeeball, all developed using Unreal Engine 5.4. This project is designed to provide an immersive arcade experience with modern VR technology.
+# 🎮 Virtual Arcade 🎮
+Welcome to Virtual Arcade, a collection of classic arcade games brought to life in virtual reality! Dive into the nostalgic fun of Whack-A-Mole, Pinball, and Skeeball, all developed using Unreal Engine 5.4. This project is designed to provide an immersive arcade experience with modern VR technology.
 
 # 🚀 Features
 ### Whack-A-Mole: Test your reflexes as moles pop up randomly, trying to whack as many as possible before time runs out.
