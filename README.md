@@ -4,10 +4,16 @@ Welcome to Virtual Arcade, a collection of classic arcade games brought to life 
 # 🚀 Features
 ### Whack-A-Mole: 
 Test your reflexes as moles pop up randomly, trying to whack as many as possible before time runs out.
+<img width="730" alt="Screenshot 2024-08-28 171426" src="https://github.com/user-attachments/assets/c077c78f-b368-4402-9ac5-b71bbf7ee340">
+
 ### Pinball: 
 Enjoy the physics-driven excitement of a classic pinball machine, with realistic flippers, bumpers, and ramps.
 ### Skeeball: 
 Roll the ball into the target holes, aiming for the highest score in this timeless arcade favorite.
+
+<img width="731" alt="Screenshot 2024-08-28 171456" src="https://github.com/user-attachments/assets/50da8396-9f62-4623-9a97-4e0082f00abb">
+<img width="727" alt="Screenshot 2024-08-28 171406" src="https://github.com/user-attachments/assets/3b7880a6-eaf1-481c-a448-21546be27b74">
+
 
 # 🎯 Objective
 The objective of VR Arcade Games is to recreate the fun and excitement of traditional arcade games in a virtual environment, providing players with a fully immersive experience. Each game offers its own unique challenge, with a focus on accuracy, speed, and precision.
